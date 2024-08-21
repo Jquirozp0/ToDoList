@@ -1,4 +1,3 @@
-# To do list App
 ## Información del Proyecto
 
 | **Nombre**           | **Correo**               | **Rol**         |
@@ -7,14 +6,9 @@
 | Vinni                | Vinni9@gmail.com         | Asesor          |
 
 
-
-
-
-
-
 ## Descripción General
 
-**DigitalizerAPP** es un proyecto enfocado en el reconocimiento óptico de caracteres (OCR) para la digitalización eficiente de documentos. La aplicación está diseñada para reconocer y procesar palabras, símbolos, números y formas desde una fotografía o captura. Esto permite generar una plantilla digital del contenido, replicando el documento original en formato digital, listo para su edición.
+**TODOAPP** es un proyecto es una aplicación To-Do List que integra elementos de gamificación para hacer la gestión de tareas más motivadora y divertida. Los usuarios pueden organizar y completar sus tareas diarias mientras desbloquean logros y avanzan en un sistema de progreso de personaje, donde cada tarea completada otorga puntos que permiten subir de nivel y personalizar su avatar virtual. Esta combinación busca mejorar la productividad al convertir las responsabilidades diarias en una experiencia gratificante y entretenida.
 
 ---
 
