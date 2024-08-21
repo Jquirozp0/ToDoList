@@ -1,4 +1,5 @@
-Enunciado del Proyecto: To-Do List Gamificada
+# Enunciado del Proyecto: **To-Do List Gamificada**
+
 Este proyecto tiene como propósito el desarrollo de una aplicación innovadora de gestión de tareas diarias (To-Do List), que va más allá de las funcionalidades tradicionales al integrar elementos de gamificación. La aplicación está diseñada para ofrecer a los usuarios una experiencia motivadora y dinámica, donde la organización de las tareas cotidianas se convierte en una actividad atractiva y gratificante.
 
 La aplicación permitirá a los usuarios crear, organizar y priorizar sus tareas diarias de manera intuitiva, proporcionando un entorno flexible que se adapta a las necesidades individuales. Sin embargo, lo que distingue a esta aplicación de otras herramientas de gestión de tareas es su enfoque en la motivación a través del juego. Cada vez que un usuario completa una tarea, recibirá puntos que se suman a su progreso general. Estos puntos, a su vez, permitirán al usuario avanzar en un sistema de desarrollo de personaje, donde podrán mejorar y personalizar un avatar virtual.
